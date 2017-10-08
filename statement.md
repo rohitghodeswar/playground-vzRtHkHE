@@ -41,7 +41,7 @@ getSum(10);
 ```javascript runnable
 'use strict';
 var a = 5;
-var getTotal = function(num1, num2 = num1 * a ) {
+var getSum = function(num1, num2 = num1 * a ) {
     console.log(num1 + num2);
 };
 getSum(10);
