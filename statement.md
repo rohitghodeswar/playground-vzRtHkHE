@@ -1,4 +1,12 @@
-# Default Function Parameters Quiz
+# ES6 - Default Function Parameters
+
+```javascript runnable
+'use strict';
+var getEmployee = function(empId = 101) {
+    console.log(empId);
+};
+getEmployee();
+```
 
 ```javascript runnable
 'use strict';
