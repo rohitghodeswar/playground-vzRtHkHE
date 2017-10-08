@@ -2,7 +2,7 @@
 
 Default function parameters allow formal parameters to be initialized with default values, if no value or *undefined* is passed.
 
-For more questions on ES6 - https://rapides6.herokuapp.com
+For more questions on ES6 please visit - https://rapides6.herokuapp.com
 
 Solve the below excercise for fun and get to know your answers.
 
