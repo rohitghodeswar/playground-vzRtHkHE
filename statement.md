@@ -73,6 +73,6 @@ getTotal(10);
 var getTotal = new Function("num = 20.00", "return num;");
 console.log(getTotal());
 ```
-# Advanced usage
+# For more questions on ES6
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Node.js template](https://tech.io/select-repo/442)
+You can visit my website for more questions on ES6 tutorials - https://rapides6.herokuapp.com
