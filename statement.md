@@ -1,5 +1,6 @@
 # ES6 - Default Function Parameters
 
+
 ```javascript runnable
 'use strict';
 var getEmployee = function(empId = 101) {
