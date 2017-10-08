@@ -1,10 +1,8 @@
-# Welcome!
-
-This Node.js template lets you get started quickly with a simple one-page playground.
+# Default Function Parameters Quiz
 
 ```javascript runnable
 'use strict';
-var getEmployee = function(empId = 1000) {
+var getEmployee = function(empId = 101) {
     console.log(empId);
 };
 getEmployee();
