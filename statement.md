@@ -3,7 +3,11 @@
 This Node.js template lets you get started quickly with a simple one-page playground.
 
 ```javascript runnable
-console.log('Hello World!');
+'use strict';
+var getEmployee = function(empId = 1000) {
+    console.log(empId);
+};
+getEmployee();
 ```
 
 # Advanced usage
