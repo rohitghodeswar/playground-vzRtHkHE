@@ -1,6 +1,8 @@
 # ES6 - Default Function Parameters
 
-Default function parameters allow formal parameters to be initialized with default values if no value or undefined is passed.
+Default function parameters allow formal parameters to be initialized with default values, if no value or *undefined* is passed.
+
+Solve the below excercise for fun and get to know your answers.
 
 ```javascript runnable
 'use strict';
