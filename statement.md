@@ -1,20 +1,16 @@
-# ES6 - Default Function Parameters
+# ES6 - let, const and Block Scoping
 
 
 ```javascript runnable
 'use strict';
-var getEmployee = function(empId = 101) {
-    console.log(empId);
-};
-getEmployee();
+console.log(empId);
+var empId = 101;
 ```
 
 ```javascript runnable
 'use strict';
-var getEmployee = function(empId = 101) {
-    console.log(empId);
-};
-getEmployee();
+console.log(empId);
+let empId = 101;
 ```
 
 # Advanced usage
