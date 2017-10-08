@@ -2,6 +2,10 @@
 
 Default function parameters allow formal parameters to be initialized with default values, if no value or *undefined* is passed.
 
+For more questions on ES6
+
+You can visit my website for more questions on ES6 tutorials - https://rapides6.herokuapp.com
+
 Solve the below excercise for fun and get to know your answers.
 
 ```javascript runnable
@@ -75,6 +79,6 @@ getTotal(10);
 var getTotal = new Function("num = 20.00", "return num;");
 console.log(getTotal());
 ```
-# For more questions on ES6
+For more questions on ES6
 
 You can visit my website for more questions on ES6 tutorials - https://rapides6.herokuapp.com
